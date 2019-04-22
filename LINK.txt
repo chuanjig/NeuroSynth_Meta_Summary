@@ -1,0 +1,2 @@
+https://neurosynth.readthedocs.io/en/latest/getting_started.html#installation
+https://nbviewer.jupyter.org/github/neurosynth/neurosynth/blob/master/examples/neurosynth_demo.ipynb
