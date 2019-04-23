@@ -1,0 +1,7 @@
+Feature,emotion_pFgA.nii.gz
+emotion,0.7506
+auditory,-0.1336
+visual,-0.1943
+audiovisual,-0.0136
+video,0.019
+music,0.0171
