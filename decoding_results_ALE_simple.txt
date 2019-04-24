@@ -1,0 +1,5 @@
+Feature,foci_av_emotionSPMfinal_ALE_resliced.nii
+emotion,0.2292
+auditory,0.1511
+visual,0.0589
+audiovisual,0.2295

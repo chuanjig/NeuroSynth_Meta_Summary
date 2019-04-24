@@ -1,0 +1,3161 @@
+Feature,foci_av_emotionSPMfinal_ALE_resliced.nii
+001,-0.0481
+01,-0.0531
+05,-0.0304
+05 corrected,0.0071
+10,-0.0822
+10 healthy,-0.0257
+100,-0.0244
+11,-0.0469
+12,-0.019
+12 healthy,0.0333
+13,-0.0536
+14,-0.0238
+14 healthy,-0.0273
+15,-0.0405
+15 healthy,0.0262
+16,0.0001
+16 healthy,-0.075
+17,-0.0139
+18,-0.0807
+18 healthy,-0.0325
+19,-0.0268
+20,-0.0053
+20 healthy,-0.0039
+200,-0.022
+2007,-0.026
+21,-0.0095
+22,0.0291
+23,-0.043
+24,-0.013
+25,-0.056
+26,-0.0239
+27,-0.0486
+28,0.0116
+29,-0.0306
+30,-0.0623
+31,-0.0711
+32,-0.0502
+33,-0.0214
+34,-0.0213
+35,-0.0224
+36,-0.0252
+37,-0.0099
+38,0.0018
+39,0.0101
+3d,-0.0574
+3t,-0.015
+40,-0.0628
+41,-0.0063
+42,-0.0293
+44,-0.0605
+45,-0.0209
+46,-0.052
+47,-0.0004
+48,0.0201
+49,-0.076
+50,-0.0242
+60,0.0262
+70,-0.014
+75,-0.0016
+80,-0.0186
+90,-0.0639
+aberrant,0.006
+abilities,-0.0546
+ability,-0.034
+able,-0.0189
+abnormal,-0.0768
+abnormalities,-0.081
+abnormality,-0.0409
+absence,0.0131
+absent,-0.0234
+absolute,-0.0339
+abstract,-0.0053
+abuse,0.0572
+acc,-0.0555
+access,0.0494
+accompanied,-0.004
+accordance,-0.0309
+according,0.0027
+accordingly,0.0359
+account,-0.0047
+accounted,0.002
+accounts,0.0141
+accumbens,0.0083
+accuracy,-0.0472
+accurate,0.0481
+accurately,0.0057
+achieve,0.0001
+achieved,-0.0185
+acoustic,0.163
+acquired,-0.0188
+acquisition,-0.0019
+act,-0.0401
+action,-0.023
+action observation,0.0356
+actions,-0.0021
+activate,0.012
+activates,-0.0291
+activations,0.0414
+active,-0.0233
+actively,0.0228
+activities,-0.019
+acts,-0.0567
+actual,-0.0472
+actually,0.0041
+acute,0.003
+ad,0.026
+adaptation,0.0319
+adapted,0.0021
+adaptive,0.0549
+add,-0.0271
+addiction,-0.0356
+addition,-0.0196
+additional,-0.0007
+additionally,0.0251
+addressed,0.0107
+adhd,-0.0577
+adjacent,-0.0449
+adjustments,-0.0181
+administered,0.0176
+administration,-0.0059
+adolescence,-0.023
+adolescent,-0.0045
+adolescents,-0.0354
+adopted,0.0155
+adult,-0.0252
+adulthood,0.027
+adults,-0.0363
+advanced,-0.0165
+advantage,0.0178
+affect,0.0477
+affected,-0.0491
+affecting,-0.0034
+affective,0.1243
+affects,0.022
+age,-0.0782
+age controls,-0.0683
+age gender,0.0066
+age groups,0.0147
+age healthy,-0.023
+age sex,-0.0501
+aged,-0.0071
+ages,0.0024
+aging,-0.0413
+agreement,-0.026
+aim,-0.0523
+aimed,-0.0168
+aims,-0.0377
+al,-0.022
+alcohol,0.0156
+algorithm,-0.0378
+allele,0.0134
+allocation,0.0048
+allow,-0.0351
+allowed,-0.0147
+allowing,-0.0344
+allows,-0.0531
+alpha,-0.049
+alter,-0.0237
+alteration,-0.0098
+alterations,-0.0661
+altered,-0.0315
+alternating,0.0298
+alternative,-0.041
+alzheimer,0.0065
+alzheimer disease,0.0018
+ambiguous,0.0149
+amnestic,0.0187
+amplitude,-0.0192
+amplitude low,-0.031
+amplitudes,-0.0268
+amygdala,0.2375
+amygdala anterior,0.0933
+amygdala hippocampus,0.2277
+amygdala insula,0.11
+amygdala response,0.0972
+amygdala responses,0.1069
+analysed,-0.0118
+analyses,0.0776
+analytic,0.0015
+analyze,-0.0197
+analyzed,0.0122
+analyzed using,-0.0384
+anatomic,-0.0118
+anatomical,-0.0164
+anatomically,0.0039
+anatomy,0.0181
+anger,0.1701
+angry,0.1259
+angular,-0.0305
+angular gyrus,-0.021
+animal,0.0489
+animals,0.0133
+anisotropy,-0.1255
+anisotropy fa,-0.117
+anterior,-0.016
+anterior cingulate,-0.0401
+anterior inferior,0.0149
+anterior insula,0.0027
+anterior insular,-0.0231
+anterior intraparietal,-0.0355
+anterior medial,0.0073
+anterior posterior,-0.0154
+anterior prefrontal,-0.104
+anterior superior,0.1196
+anterior temporal,0.1693
+anti,0.0213
+anticipated,-0.022
+anticipation,-0.0257
+anticipatory,-0.0073
+antidepressant,-0.0309
+anxiety,0.0458
+anxiety disorders,0.0434
+aphasia,0.0166
+apparent,0.0354
+appear,0.035
+appearance,-0.021
+appeared,-0.0055
+appears,0.0594
+application,-0.0362
+applied,-0.0672
+applying,0.0257
+appraisal,-0.0038
+approach,0.0142
+approaches,-0.0363
+appropriate,-0.0411
+approximately,-0.0033
+architecture,-0.0732
+argue,0.0578
+arise,0.0446
+arising,-0.018
+arithmetic,-0.0845
+arm,-0.0291
+arousal,0.0559
+array,-0.0013
+arterial,-0.0269
+arterial spin,-0.0216
+articulatory,0.0114
+asd,0.072
+asked,-0.0269
+aspect,0.0271
+aspects,0.0692
+assess,-0.0498
+assessed,-0.0407
+assessed using,-0.0321
+assessing,0.0007
+assessment,-0.04
+assessments,-0.0385
+assigned,0.0446
+association,-0.061
+association cortex,0.0262
+associations,0.0054
+associative,0.0236
+assume,-0.0102
+assumed,0.0197
+assumption,0.0217
+asymmetry,-0.041
+atrophy,0.0083
+attempt,-0.0477
+attempted,-0.057
+attend,-0.006
+attended,0.0263
+attending,0.0189
+attention,-0.0154
+attention deficit,-0.0432
+attention network,-0.038
+attention task,-0.0688
+attentional,-0.0378
+attentional control,-0.0617
+attenuated,-0.0006
+attenuation,0.0122
+attributable,0.0026
+attribute,0.0206
+attributed,-0.0336
+attributes,-0.0327
+attribution,0.0675
+atypical,0.0178
+audio,0.1349
+audiovisual,0.2295
+auditory,0.1511
+auditory cortex,0.1188
+auditory cortices,0.0653
+auditory stimuli,0.0837
+auditory visual,0.1243
+autism,0.059
+autism spectrum,0.0717
+autobiographical,0.111
+autobiographical memory,0.0976
+automated,-0.0984
+automatic,0.0168
+automatically,0.0912
+autonomic,0.004
+available,0.0459
+average,-0.0745
+aversive,0.0596
+avoid,0.016
+avoidance,-0.0024
+awareness,-0.0087
+away,-0.0289
+axis,0.0447
+ba,-0.0383
+ba 10,-0.0141
+ba 40,-0.0279
+ba 44,-0.0038
+ba 47,-0.0069
+background,-0.0189
+balance,0.0019
+band,0.001
+basal,-0.0646
+basal ganglia,-0.0695
+baseline,-0.0113
+bases,0.0238
+basic,0.0005
+basis,-0.0239
+battery,-0.0531
+bayesian,-0.0035
+beginning,-0.0199
+behavior,-0.0404
+behavioral,-0.011
+behavioral measures,-0.0178
+behavioral performance,-0.0514
+behavioral responses,-0.0124
+behaviorally,0.0023
+behaviors,0.0049
+behaviour,0.0453
+behavioural,-0.0119
+belief,-0.0082
+believed,0.0246
+beneficial,-0.0576
+benefit,0.018
+benefits,-0.0049
+best,0.0017
+beta,-0.0299
+better,-0.0021
+better understanding,0.0307
+bias,0.0445
+biased,-0.0368
+biases,0.0186
+bilaterally,-0.0257
+binding,0.019
+biological,0.0813
+biomarker,-0.0068
+bipolar,-0.0241
+bipolar disorder,-0.0301
+blind,-0.0264
+block,0.0257
+block design,0.0563
+blocked,-0.0011
+blocks,0.0391
+blood,0.01
+blood flow,-0.0441
+blood oxygen,0.0063
+blood oxygenation,0.0524
+bodily,0.0209
+body,-0.0251
+bold,0.0501
+bold response,0.0035
+bold responses,0.0393
+bold signal,0.0524
+bold signals,-0.0363
+brains,-0.0193
+brainstem,0.0289
+brief,0.0296
+broad,-0.0005
+broader,-0.0217
+broca,-0.0165
+brodmann,-0.0356
+brodmann ba,-0.0117
+button,-0.043
+calculated,-0.0139
+calculation,-0.1137
+called,0.0337
+callosum,-0.0922
+canonical,-0.0062
+capable,-0.0164
+capacity,-0.0102
+capsule,-0.0851
+capture,-0.0065
+carried,-0.002
+carriers,-0.0283
+case,0.0004
+cases,-0.0794
+categorical,-0.0045
+categories,0.1121
+categorization,0.0307
+category,0.0662
+caudal,-0.0452
+caudate,-0.0641
+caudate nucleus,-0.0518
+causal,-0.0165
+causal modeling,0.0106
+causality,0.014
+cause,-0.0083
+caused,-0.0324
+causes,-0.0055
+center,-0.0135
+centered,0.0002
+central,-0.0567
+central role,0.0052
+cerebellar,-0.0916
+cerebellum,-0.0771
+cerebral,-0.0627
+cerebral blood,-0.0536
+cerebral cortex,-0.0422
+certain,0.0396
+challenge,0.0432
+challenges,-0.0321
+challenging,0.0276
+change,-0.0133
+changed,0.0188
+changing,0.0438
+character,-0.0232
+characteristic,-0.0352
+characteristics,-0.0595
+characterization,-0.0207
+characterize,-0.0136
+characterized,0.0175
+characters,-0.0172
+childhood,0.0121
+children,-0.025
+children adolescents,-0.0165
+chinese,-0.0396
+choice,-0.0721
+choices,-0.0399
+chosen,-0.0197
+chronic,-0.0509
+chronic pain,-0.0312
+cingulate,-0.0482
+cingulate cortex,-0.0511
+cingulate cortices,-0.0192
+cingulate gyrus,-0.0209
+cingulate precuneus,-0.0355
+cingulum,-0.1024
+circuit,-0.0206
+circuitry,0.021
+circuits,-0.0348
+clarify,-0.0247
+class,-0.0083
+classic,0.0517
+classical,0.061
+classification,0.0426
+classified,0.0127
+clear,0.0692
+clearly,0.0793
+clinical,-0.0619
+clinically,-0.0226
+clips,0.0955
+close,-0.0058
+closed,-0.0367
+closely,0.0346
+cluster,-0.0533
+clusters,-0.0164
+code,0.073
+coding,0.0289
+cognition,-0.0036
+cognitive,-0.1012
+cognitive control,-0.1122
+cognitive deficits,-0.0199
+cognitive emotional,-0.0097
+cognitive function,-0.0534
+cognitive functions,-0.0942
+cognitive impairment,0.0211
+cognitive performance,-0.0498
+cognitive processes,-0.0069
+cognitive task,-0.0223
+cognitive tasks,-0.0593
+cognitively,-0.033
+coherence,0.0207
+coherent,-0.0043
+cohort,-0.021
+collected,-0.0175
+color,-0.0721
+combination,-0.0257
+combinations,0.0278
+combined,0.0447
+combining,0.0362
+common,0.0059
+commonly,0.0659
+communication,0.1454
+community,-0.0475
+comparable,0.0222
+compare,-0.0184
+comparing,0.0207
+comparisons,-0.0489
+compatible,-0.0408
+compensate,-0.0082
+compensation,-0.0208
+compensatory,-0.0077
+competing,-0.0698
+competition,0.0007
+complementary,-0.0105
+complete,-0.0519
+completed,-0.0068
+completely,-0.0209
+complex,0.0592
+complexity,0.0013
+component,-0.0114
+component ica,0.0134
+components,0.0068
+comprehension,0.0859
+comprehensive,-0.0006
+comprised,0.0182
+compromised,-0.0096
+compulsive,-0.0854
+compulsive disorder,-0.0794
+computational,-0.0068
+computed,-0.064
+concentration,-0.0183
+concept,-0.0483
+concepts,0.0334
+conceptual,0.0783
+concerning,0.029
+conclude,-0.0002
+concluded,-0.0143
+conclusion,0.0053
+concomitant,-0.0227
+concrete,0.0543
+concurrent,-0.0245
+concurrently,-0.0015
+condition,0.0153
+conditioned,0.0106
+conditioning,-0.0035
+conditions,0.0465
+conductance,0.0449
+conducted,0.0419
+confirm,0.0334
+confirmed,0.0256
+conflict,-0.107
+conflicting,-0.0192
+confounding,-0.0247
+congruency,-0.0026
+congruent,0.0787
+congruent incongruent,0.045
+conjunction,-0.0065
+connected,0.0154
+connecting,-0.0332
+connection,-0.0394
+connections,0.0106
+connectivity,0.0054
+connectivity analyses,0.0389
+connectivity fc,-0.0176
+connectivity networks,0.0097
+connectivity patterns,-0.0156
+connectivity posterior,0.0209
+conscious,0.0572
+consecutive,-0.006
+consequence,-0.0322
+consequences,-0.0221
+consequently,0.0611
+consider,-0.0096
+considerable,0.0206
+considered,-0.0216
+considering,-0.0019
+consisted,0.0104
+consistency,0.017
+consistently,0.0052
+consisting,-0.0051
+consists,0.0004
+consolidation,0.0525
+constant,0.0123
+constitute,-0.0035
+constrained,0.0086
+constraints,0.0092
+construct,0.0063
+constructed,-0.0191
+contain,-0.0087
+contained,0.0118
+containing,0.0454
+contains,-0.0147
+content,0.1487
+contents,0.0473
+context,0.052
+contexts,0.005
+contextual,0.0479
+continuous,-0.0185
+continuously,0.0432
+contralateral,-0.0835
+contralateral primary,-0.0552
+contrary,0.0282
+contrast,0.0196
+contrasted,-0.014
+contrasting,-0.0053
+contrasts,0.0265
+contribute,-0.01
+contributed,-0.0151
+contributes,0.0264
+contributing,-0.037
+contribution,-0.0022
+contributions,-0.0277
+control,-0.1198
+control condition,0.0048
+control conditions,-0.0231
+control group,-0.0032
+control groups,0.0049
+control network,-0.0601
+control processes,-0.0991
+control task,-0.0384
+controlled,0.0035
+controlling,-0.0304
+controls,-0.0742
+controls hc,0.0402
+controls using,-0.0217
+controversial,-0.0145
+conventional,-0.0075
+convergence,0.0575
+converging,0.0076
+conversely,-0.0001
+conveyed,0.1006
+coordinate,0.0021
+coordinates,-0.0268
+coordination,-0.0446
+core,0.0702
+corpus,-0.0958
+corpus callosum,-0.0922
+correct,-0.0545
+corrected,-0.0354
+correction,-0.0322
+correctly,0.0438
+correlate,-0.0003
+correlated,-0.0456
+correlated negatively,-0.0157
+correlated positively,-0.0163
+correlates,-0.0371
+correlation,-0.0799
+correlations,-0.0609
+correspond,-0.0235
+corresponded,-0.0044
+correspondence,0.0437
+corresponding,-0.0197
+cortex,-0.0719
+cortex acc,-0.0454
+cortex amygdala,0.0734
+cortex anterior,-0.0435
+cortex ba,-0.0314
+cortex bilaterally,-0.0397
+cortex cerebellum,-0.0317
+cortex contrast,0.0039
+cortex dacc,-0.0212
+cortex dlpfc,-0.108
+cortex dorsal,-0.0733
+cortex frontal,0.0017
+cortex greater,0.0139
+cortex inferior,0.0097
+cortex insula,0.0033
+cortex involved,-0.0402
+cortex lateral,-0.0149
+cortex m1,-0.0529
+cortex medial,-0.0303
+cortex middle,-0.0056
+cortex mpfc,0.0457
+cortex ofc,0.0506
+cortex parietal,-0.0279
+cortex pcc,-0.0092
+cortex pfc,-0.0468
+cortex posterior,0.0098
+cortex ppc,-0.0506
+cortex precuneus,0.0058
+cortex suggest,0.0652
+cortex superior,0.0546
+cortex supplementary,-0.0449
+cortex thalamus,-0.0215
+cortex ventral,0.001
+cortex vlpfc,0.0125
+cortex vmpfc,-0.0156
+cortical,-0.0978
+cortical involved,-0.0205
+cortical motor,-0.0437
+cortical network,-0.0051
+cortical networks,-0.0471
+cortical subcortical,-0.02
+cortical thickness,-0.0664
+cortices,0.0038
+cortico,-0.0458
+corticospinal,-0.0783
+coupled,-0.0037
+coupling,-0.0081
+course,-0.0055
+courses,-0.0056
+covariance,-0.0063
+covaried,-0.0281
+covert,0.0058
+created,0.0131
+criteria,-0.0149
+critical,-0.0371
+critical role,-0.0464
+critically,-0.0011
+cross,0.0188
+cross modal,0.0559
+cross sectional,-0.0111
+crossover,-0.021
+crucial,0.047
+crucial role,-0.0292
+crucially,0.0327
+crus,-0.0915
+cue,-0.034
+cued,-0.0439
+cues,0.0802
+cuneus,-0.0145
+current,-0.0066
+current functional,0.0105
+currently,-0.0057
+cycle,0.0078
+dacc,-0.0326
+daily,0.0033
+damage,-0.0229
+date,0.1177
+day,-0.001
+days,-0.022
+deactivated,0.0272
+deactivation,0.0244
+deactivations,-0.0221
+deaf,0.0282
+debate,0.0251
+debated,0.0222
+decision,-0.0727
+decision making,-0.0958
+decision task,-0.0048
+decisions,-0.0809
+decline,-0.0346
+decoding,0.0362
+decreases,-0.0161
+decreasing,-0.0201
+deep,-0.0117
+default,0.0009
+default mode,-0.0111
+default network,0.011
+deficient,-0.0372
+deficit,-0.0206
+deficit hyperactivity,-0.035
+deficits,0.0165
+define,-0.0347
+defined,0.029
+degeneration,-0.0516
+degree,0.0373
+degrees,-0.0075
+delay,-0.0722
+delayed,-0.0109
+delineate,0.0156
+delivered,-0.0451
+demand,-0.0314
+demanding,-0.0121
+demands,-0.0581
+dementia,0.0306
+demonstrate,0.0086
+demonstrated,-0.0309
+demonstrates,-0.0109
+demonstrating,-0.0305
+density,-0.0784
+depend,0.0082
+depended,0.0399
+dependence,-0.0247
+depending,0.0528
+depends,0.0327
+depicting,0.0659
+depressed,-0.0095
+depression,0.0179
+depressive,0.0026
+depressive disorder,0.0086
+deprivation,-0.0107
+depth,-0.0237
+derived,-0.0378
+described,-0.0041
+design,0.0383
+designed,-0.009
+designs,-0.0205
+despite,-0.0216
+detailed,-0.0719
+details,0.0426
+detect,-0.0378
+detected,-0.0239
+detecting,0.02
+detection,-0.0113
+detection task,-0.0202
+determine,0.0105
+determined,-0.0513
+determining,-0.0116
+develop,-0.0357
+developed,-0.035
+developing,-0.0061
+development,-0.0106
+developmental,-0.032
+diagnosed,0.0065
+diagnosis,0.0297
+diagnostic,-0.0077
+did,-0.0231
+did differ,-0.0539
+differ,-0.0232
+differed,0.0264
+difference,-0.0597
+differential,0.0205
+differentially,-0.0054
+differentiate,0.0152
+differentiated,0.0284
+differentiation,0.0078
+differently,-0.0097
+differing,0.0176
+differs,-0.0609
+difficult,-0.0009
+difficulties,0.014
+difficulty,-0.0254
+diffuse,-0.0275
+diffusion,-0.1054
+diffusion tensor,-0.1083
+diffusivity,-0.0836
+digit,-0.0976
+dimension,-0.0104
+dimensional,-0.0505
+dimensions,0.0206
+diminished,0.061
+direct,0.0527
+direct evidence,0.035
+directed,0.0231
+direction,0.0238
+directions,0.0027
+directly,-0.0443
+disability,-0.0478
+discrete,0.0005
+discriminate,-0.0218
+discriminated,0.0276
+discriminating,-0.0285
+discrimination,0.0421
+discrimination task,0.018
+discuss,-0.0399
+discussed,0.0009
+disease,-0.0757
+disease ad,0.0181
+disease pd,-0.066
+diseases,0.0268
+disgust,0.1208
+disorder,-0.05
+disorder adhd,-0.0536
+disorder mdd,0.0081
+disorder ocd,-0.0594
+disorder ptsd,0.0313
+disorders,0.0546
+display,-0.0237
+displayed,0.0155
+displays,0.0784
+disrupted,-0.0239
+disruption,-0.0517
+dissociable,-0.03
+dissociate,-0.0091
+dissociated,0.0336
+dissociation,0.0316
+dissociations,0.0284
+distance,0.0068
+distinction,0.0262
+distinguish,-0.0537
+distinguished,0.0085
+distraction,-0.0077
+distractors,-0.0005
+distributed,0.0392
+distributed network,0.0122
+distribution,0.005
+disturbances,0.0339
+diverse,-0.0096
+divided,-0.0571
+dlpfc,-0.1047
+dmn,0.0007
+dmpfc,0.0226
+documented,-0.0239
+does,-0.0138
+domain,-0.0067
+domains,0.0126
+dominance,0.0183
+dominant,0.0085
+dopamine,-0.0431
+dopaminergic,0.0146
+dorsal,-0.0808
+dorsal anterior,-0.0596
+dorsal medial,0.0017
+dorsal premotor,-0.0556
+dorsal striatum,-0.005
+dorsal ventral,-0.0224
+dorsolateral,-0.1371
+dorsolateral prefrontal,-0.134
+dorsomedial,0.0436
+dorsomedial prefrontal,0.0588
+dose,-0.0332
+dot,-0.0272
+double,-0.0446
+double blind,-0.0485
+double dissociation,-0.001
+drive,-0.0086
+driven,-0.0018
+driving,-0.0156
+drug,-0.0515
+drugs,-0.043
+dsm,-0.0661
+dsm iv,-0.069
+dti,-0.0902
+dual,-0.0269
+duration,-0.0225
+dynamic,0.1111
+dynamic causal,-0.0133
+dynamically,0.0643
+dynamics,0.0501
+dysfunction,-0.0312
+dysfunctional,0.0355
+dysfunctions,0.014
+dyslexia,-0.0021
+dysregulation,0.0825
+earlier,-0.0206
+early,-0.0043
+early stage,-0.0201
+early visual,-0.0067
+easy,-0.0488
+eating,0.0241
+echo,-0.0475
+education,-0.0804
+eeg,-0.0232
+effect,0.0129
+effective,-0.0133
+effective connectivity,0.0132
+effectively,-0.0613
+effects,0.0234
+efficacy,-0.0118
+efficiency,-0.0538
+efficient,0.0196
+effort,-0.0192
+eighteen,-0.009
+elderly,-0.0145
+electrical,-0.0343
+electroencephalography,-0.0314
+electroencephalography eeg,-0.0257
+electrophysiological,-0.0222
+elements,-0.0404
+elevated,0.0646
+elicit,0.0592
+elicited,0.102
+elicits,0.0459
+elucidate,0.0173
+elucidated,0.0474
+embedded,0.0187
+emerge,0.0382
+emerged,0.0099
+emerging,-0.0017
+emission,-0.0101
+emission tomography,-0.0066
+emotion,0.2292
+emotion regulation,0.0389
+emotional,0.2229
+emotional faces,0.1524
+emotional information,0.1271
+emotional neutral,0.1422
+emotional responses,0.065
+emotional stimuli,0.119
+emotional valence,0.129
+emotionally,0.2003
+emotions,0.2311
+empathic,0.0643
+empathy,0.1511
+emphasize,0.0208
+empirical,0.0192
+employed,-0.0199
+employing,0.0341
+enable,-0.0147
+enabled,-0.0506
+enables,0.0171
+encode,0.001
+encoded,-0.0011
+encoding,0.0658
+encoding retrieval,0.0725
+encompassing,0.0432
+end,-0.0601
+endogenous,-0.0397
+engage,0.055
+engaged,0.0533
+engagement,0.0194
+engages,0.043
+engaging,0.0025
+english,0.0034
+enhance,0.0834
+enhancement,0.0786
+enhances,0.0695
+entire,-0.035
+environment,0.0563
+environmental,0.0494
+environments,0.0254
+epilepsy,0.0229
+episode,-0.0456
+episodes,-0.001
+episodic,0.0578
+episodic memory,0.0546
+equal,-0.0406
+equally,0.0603
+equation,0.0074
+equivalent,-0.0083
+erp,0.0362
+erps,-0.0025
+error,-0.057
+errors,-0.0454
+especially,-0.033
+essential,0.0349
+establish,-0.0296
+established,-0.0233
+estimate,-0.0629
+estimated,-0.0818
+estimates,-0.0349
+estimation,0.0196
+et,-0.0223
+et al,-0.0227
+evaluate,-0.026
+evaluated,-0.0264
+evaluating,0.0266
+evaluation,0.0276
+evaluations,-0.0393
+event,0.0235
+event design,-0.0101
+event functional,-0.0112
+event potential,0.0416
+event potentials,0.0012
+events,0.0448
+everyday,0.0528
+everyday life,0.0392
+evidence,0.0068
+evidence suggests,0.0647
+evidenced,0.0152
+evident,0.0312
+evoke,0.0761
+evoked,0.0405
+evolution,0.0187
+exact,-0.0596
+examination,-0.0198
+examining,0.0148
+example,0.0483
+excessive,-0.0425
+exclusively,0.0275
+executed,-0.0326
+execution,-0.0411
+executive,-0.1304
+executive control,-0.0636
+executive function,-0.0319
+executive functions,-0.056
+exhibit,0.019
+exhibited,0.0452
+exhibited greater,0.0383
+exhibiting,0.0171
+exist,-0.0115
+existence,0.0207
+existing,-0.0345
+exists,-0.0042
+expectancy,0.0059
+expectation,-0.0052
+expectations,-0.0042
+expected,-0.0323
+experience,0.0537
+experienced,0.0351
+experiences,0.0865
+experiencing,0.003
+experiment,0.0282
+experimental,-0.006
+experimental conditions,0.0061
+experimentally,0.0057
+experiments,0.0138
+expertise,0.0278
+explain,-0.0054
+explained,0.0197
+explanation,-0.0308
+explicit,0.0315
+explicitly,-0.0209
+exploration,-0.033
+exploratory,-0.0362
+explore,0.0125
+explored,0.0439
+exploring,0.0474
+exposed,0.0252
+exposure,0.0341
+expressed,0.1578
+expression,0.1859
+expressions,0.2343
+extend,-0.0177
+extended,0.0772
+extending,0.02
+extends,0.0388
+extension,-0.0289
+extensive,0.0355
+extensively,0.0175
+extent,0.0334
+external,-0.0187
+externally,-0.0656
+extra,0.0048
+extract,0.0215
+extracted,0.0315
+extraction,0.0234
+extrastriate,0.0399
+extrastriate cortex,-0.0247
+extrastriate visual,0.0105
+eye,0.0054
+eye field,-0.0511
+eye fields,-0.0593
+eye movements,-0.0016
+eyes,0.0448
+fa,-0.1089
+face,0.2194
+face ffa,0.121
+face recognition,0.09
+face stimuli,0.0889
+faces,0.2199
+facial,0.272
+facial expression,0.2217
+facial expressions,0.2165
+facilitate,0.0103
+facilitates,0.0221
+facilitation,0.0125
+fact,-0.0419
+factor,0.009
+factorial,0.0375
+factorial design,0.0349
+factors,0.0245
+failed,0.009
+failure,-0.0531
+false,0.019
+familiar,0.0668
+familiarity,0.0047
+family,-0.0098
+far,0.0358
+fasciculus,-0.079
+fashion,0.019
+fast,-0.0256
+faster,0.0067
+fc,-0.0115
+fear,0.1619
+fearful,0.1977
+fearful faces,0.1214
+feature,-0.025
+features,-0.0026
+feedback,-0.022
+feeling,0.0443
+feelings,0.134
+female,0.0104
+females,0.0266
+ffa,0.1348
+fiber,-0.048
+fibers,-0.0512
+field,-0.0781
+fields,-0.0507
+final,-0.0039
+finally,0.0262
+fine,-0.0152
+finger,-0.0686
+finger movements,-0.0764
+fixation,0.0142
+fixed,-0.0165
+flexible,-0.0237
+flow,-0.0445
+fluctuations,0.0028
+fluency,-0.0409
+fluid,-0.0442
+focal,-0.0291
+foci,-0.0468
+focus,-0.0003
+focused,0.0315
+focusing,0.0317
+follow,-0.016
+followed,0.0272
+following,-0.0255
+food,0.0099
+foot,-0.0813
+force,-0.0377
+form,0.037
+formation,0.0997
+formed,-0.0114
+forming,-0.0141
+forms,0.0258
+forward,-0.024
+fourteen,0.0218
+fractional,-0.1263
+fractional anisotropy,-0.1265
+framework,0.0189
+free,-0.0271
+frequencies,-0.0433
+frequency,-0.0393
+frequent,0.0091
+frequently,-0.0088
+frontal,-0.0502
+frontal cortex,-0.0088
+frontal cortices,0.0508
+frontal eye,-0.0514
+frontal gyri,-0.0058
+frontal gyrus,0.0113
+frontal lobe,-0.0616
+frontal lobes,-0.0312
+frontal operculum,-0.0034
+frontal parietal,-0.1089
+frontal temporal,0.0246
+fronto,-0.0646
+fronto parietal,-0.0533
+fronto striatal,-0.0405
+fronto temporal,0.0734
+frontoparietal,-0.035
+frontoparietal network,-0.0468
+frontopolar,-0.0211
+frontostriatal,-0.0543
+frontotemporal,0.0523
+fully,0.0057
+function,-0.0571
+functional abnormalities,-0.0123
+functional connectivity,-0.0193
+functional coupling,-0.0255
+functional magnetic,0.0498
+functional network,-0.0115
+functional networks,0.0031
+functional neuroanatomy,0.0139
+functional organization,0.0367
+functional role,0.0263
+functional structural,0.0355
+functionally,0.0033
+functionally connected,-0.0168
+functioning,-0.0011
+functions,-0.075
+fundamental,-0.0052
+furthermore,0.0431
+fusiform,0.1258
+fusiform face,0.1247
+fusiform gyri,0.0466
+fusiform gyrus,0.1221
+future,-0.0354
+gain,-0.0469
+gains,-0.0566
+game,-0.0561
+gamma,-0.0559
+ganglia,-0.0687
+gaze,0.083
+gender,0.0149
+gene,-0.0554
+general,-0.01
+general linear,-0.0379
+generalized,-0.0597
+generally,-0.0106
+generate,-0.0625
+generated,-0.0534
+generating,-0.026
+generation,-0.0168
+generators,-0.0017
+genes,-0.0565
+genetic,-0.0729
+genetic risk,-0.0481
+genotype,-0.0069
+german,-0.019
+gestures,0.0921
+given,0.0166
+global,-0.0324
+globus,-0.0102
+globus pallidus,-0.0092
+glucose,0.0052
+gm,-0.0488
+gm volume,-0.0575
+goal,-0.0215
+goal directed,0.0104
+goals,-0.0497
+good,-0.0378
+gradient,0.0025
+grasping,-0.0248
+gray,-0.0477
+gray matter,-0.0692
+gray white,-0.06
+greater,0.0632
+greatest,0.0566
+grey,-0.0514
+grey matter,-0.062
+group,-0.0623
+group level,-0.0501
+groups,-0.0218
+growing,0.0169
+guide,0.0046
+guided,-0.0466
+gyri,0.074
+gyrus,0.096
+gyrus anterior,0.0005
+gyrus ba,0.0153
+gyrus cerebellum,-0.0524
+gyrus fusiform,0.0687
+gyrus ifg,0.0674
+gyrus inferior,-0.0137
+gyrus insula,0.0172
+gyrus medial,0.0038
+gyrus middle,0.0173
+gyrus posterior,0.0214
+gyrus precuneus,-0.0027
+gyrus stg,0.1059
+gyrus superior,0.0098
+half,0.0411
+hallucinations,0.0573
+hand,-0.0738
+hand movements,-0.0161
+handed,-0.0311
+handedness,-0.0628
+hands,-0.0192
+happy,0.1624
+having,-0.0107
+hc,0.0294
+head,0.0255
+health,-0.0045
+healthy,-0.0464
+healthy adults,0.0246
+healthy control,0.0092
+healthy controls,-0.0639
+healthy handed,-0.0221
+healthy human,-0.0621
+healthy individuals,0.0174
+healthy male,0.0345
+healthy volunteers,-0.0501
+healthy young,-0.0205
+heard,0.1266
+hearing,0.0429
+heart,0.0358
+heat,-0.0509
+heightened,0.0571
+held,-0.0372
+help,-0.0562
+hemisphere,-0.0395
+hemispheres,-0.0677
+hemispheric,-0.0202
+hemodynamic,0.0491
+hemodynamic response,0.0236
+hemodynamic responses,0.0496
+heschl,0.0687
+heschl gyrus,0.0737
+heterogeneity,-0.0415
+heterogeneous,-0.0006
+hierarchical,0.0516
+high,-0.0366
+high frequency,-0.0253
+high functioning,-0.0131
+high level,-0.053
+high low,0.0141
+high resolution,-0.0279
+high risk,-0.0284
+higher,-0.0823
+higher level,0.022
+higher order,0.0066
+highest,-0.0339
+highlight,0.0544
+highlighted,0.011
+highly,0.0055
+hippocampal,0.1049
+hippocampus,0.1688
+history,-0.0291
+hoc,-0.0521
+homogeneity,-0.0561
+homogeneity reho,-0.0692
+human,0.0715
+humans,-0.0063
+hyperactivation,0.0394
+hyperactivity,-0.0225
+hyperactivity disorder,-0.031
+hypoactivation,0.0636
+hypothalamus,0.0761
+hypotheses,-0.0396
+hypothesize,0.0104
+hypothesized,-0.0009
+hz,-0.0638
+ica,0.0005
+idea,0.0321
+identical,-0.052
+identification,0.0801
+identified,-0.0026
+identify,-0.0093
+identifying,0.0189
+identity,0.1144
+ifg,0.0486
+ii,-0.0076
+iii,0.0203
+illness,-0.0175
+illustrate,-0.0024
+image,-0.0012
+imagery,-0.0747
+images,-0.0215
+images acquired,-0.0041
+imagine,-0.0041
+imagined,-0.0624
+imitation,-0.0162
+immediate,0.0175
+immediately,-0.0129
+impact,0.0525
+impaired,-0.0337
+impairment,-0.0384
+impairment mci,0.0181
+impairments,0.0006
+implementation,-0.059
+implemented,0.0266
+implicate,-0.0321
+implicated,0.0495
+implications,-0.0201
+implicit,0.015
+imply,-0.0249
+importance,0.0686
+important,0.0329
+important role,0.0197
+importantly,-0.0005
+improve,-0.0549
+improved,-0.0302
+improvement,-0.0051
+improvements,-0.0405
+improves,-0.0087
+impulsivity,-0.0263
+incentive,-0.0046
+include,0.0021
+included,0.042
+includes,0.0246
+incongruent,0.0443
+inconsistent,-0.0214
+incorrect,-0.026
+increases,-0.0486
+increasing,-0.0365
+increasingly,0.0206
+independent,-0.0053
+independent component,0.0107
+independently,0.0124
+index,-0.0904
+index finger,-0.0554
+indexed,0.0351
+indicate,0.0205
+indicated,0.0393
+indicates,0.0203
+indicating,0.0193
+indices,-0.0047
+indirect,0.0541
+individual,-0.0135
+individually,-0.0387
+individuals,0.009
+induce,-0.0251
+induced,-0.0187
+induces,-0.0018
+inducing,0.0644
+induction,0.0383
+infer,0.0771
+inference,0.0081
+inferences,0.0356
+inferior,-0.011
+inferior frontal,0.0542
+inferior middle,0.0101
+inferior occipital,0.0674
+inferior parietal,-0.0861
+inferior prefrontal,-0.0398
+inferior superior,-0.0674
+inferior temporal,0.0455
+influence,0.0416
+influenced,-0.0247
+influences,0.0215
+information,0.0874
+inhibit,-0.0609
+inhibition,-0.0494
+inhibitory,-0.0342
+inhibitory control,-0.0211
+initial,0.0014
+initially,-0.0073
+initiation,-0.0662
+injury,-0.0819
+input,0.0384
+inputs,0.0138
+insight,-0.0189
+insights,0.0458
+instead,0.0169
+instructed,0.0115
+instruction,0.0077
+instructions,0.0058
+insula,0.0231
+insula anterior,0.0206
+insula inferior,0.0215
+insular,-0.0346
+insular cortex,-0.0354
+intact,0.0505
+integrate,0.0344
+integrated,0.0426
+integrating,0.046
+integration,0.1928
+integrative,0.0992
+integrity,-0.11
+intelligence,-0.0458
+intended,0.0169
+intense,0.0251
+intensities,-0.0268
+intensity,-0.0057
+intention,0.0126
+intentional,0.039
+intentions,0.0542
+inter,-0.0594
+interact,0.0463
+interacting,0.0287
+interaction,0.0872
+interactions,0.1061
+interactive,0.0424
+interestingly,-0.0
+interference,-0.0897
+interhemispheric,-0.0522
+intermediate,-0.0288
+internal,-0.0613
+internal capsule,-0.0865
+internally,-0.0162
+interpersonal,0.0713
+interplay,0.0115
+interpret,0.0374
+interpretation,0.0369
+interpreted,0.0064
+interval,-0.0709
+intervals,-0.0275
+intervention,0.0022
+interventions,-0.0037
+intra,-0.0253
+intraparietal,-0.0709
+intraparietal sulcus,-0.0792
+intrinsic,0.0058
+introduced,-0.0572
+introduction,0.015
+invasive,-0.01
+inverse,0.0147
+inversely,0.0021
+inversely correlated,-0.0192
+investigates,0.0273
+investigating,0.055
+investigation,-0.0006
+investigations,-0.0201
+involve,-0.0302
+involved,0.0301
+involvement,-0.0332
+involves,0.0565
+involving,-0.0277
+ipl,-0.0181
+ips,-0.0693
+ipsilateral,-0.0736
+iq,-0.043
+irrelevant,0.0173
+irrespective,0.0855
+isolate,-0.0255
+isolated,0.0881
+issue,-0.0082
+issues,-0.028
+item,-0.0176
+items,-0.0138
+iv,-0.0819
+joint,-0.0229
+judge,-0.0122
+judged,-0.0285
+judgment,-0.0072
+judgment task,-0.01
+judgments,-0.0184
+junction,0.0474
+junction tpj,0.0302
+just,0.0075
+key,0.0091
+key role,0.0013
+kinds,-0.0216
+know,0.0758
+knowledge,0.0278
+known,0.0611
+known involved,0.0345
+labeling,0.0312
+lack,0.0579
+lacking,0.0013
+language,0.0783
+language comprehension,0.1282
+languages,-0.0116
+large,-0.0184
+large scale,0.0726
+largely,0.0249
+largely unknown,0.0188
+larger,-0.038
+late,-0.026
+latencies,0.0018
+latency,-0.0042
+later,0.0349
+lateral,-0.0295
+lateral frontal,-0.0367
+lateral medial,-0.0008
+lateral occipital,-0.018
+lateral orbitofrontal,0.0129
+lateral parietal,-0.0139
+lateral prefrontal,-0.0961
+lateral temporal,0.1196
+laterality,0.0204
+lateralization,0.0644
+lateralized,0.045
+lead,-0.0531
+leading,-0.0053
+leads,-0.0056
+learn,-0.0218
+learned,0.0089
+learning,-0.0421
+learning task,-0.0132
+led,-0.02
+length,-0.0243
+lesion,-0.0405
+lesions,-0.0564
+lesser,0.0547
+letter,-0.0397
+letters,-0.0327
+level,0.0666
+level bold,0.0313
+level signal,0.0124
+levels,0.0049
+lexical,0.0354
+lexical decision,-0.0141
+life,0.0505
+light,0.055
+like,0.0578
+likelihood,0.0219
+likelihood estimation,0.0782
+likely,-0.0185
+limb,-0.0761
+limbic,0.1001
+limitations,-0.0519
+limited,-0.0265
+line,0.0011
+linear,-0.0526
+linear model,-0.0372
+linearly,-0.0226
+lines,-0.0245
+lingual,-0.0008
+lingual gyrus,-0.0177
+linguistic,0.1047
+link,0.0002
+linked,0.0134
+linking,-0.0037
+links,-0.0145
+list,0.0081
+listened,0.0992
+listeners,0.0866
+listening,0.1343
+literature,0.023
+little,0.0334
+little known,0.0243
+load,-0.0508
+lobe,0.0661
+lobe mtl,0.0943
+lobes,0.045
+lobule,-0.1242
+lobule ipl,-0.0159
+lobules,-0.1095
+local,-0.0326
+localization,-0.0371
+localize,0.013
+localized,-0.0389
+located,-0.0631
+location,-0.0379
+locations,-0.0783
+locus,0.0182
+long,-0.0075
+long term,0.0285
+longer,-0.071
+longitudinal,-0.0708
+longitudinal fasciculus,-0.0644
+loop,-0.0073
+loss,-0.0214
+losses,-0.0449
+low,0.0054
+low frequency,-0.0351
+low high,0.0218
+low level,0.0947
+lower,-0.111
+m1,-0.0476
+machine,0.0114
+magnetic,-0.006
+magnetic resonance,0.0095
+magnetic stimulation,-0.0666
+magnetoencephalography,-0.0057
+magnitude,-0.0204
+main,-0.0295
+main effect,-0.0304
+mainly,-0.0055
+maintain,-0.0393
+maintained,-0.0183
+maintaining,-0.0867
+maintenance,-0.0511
+major,-0.0179
+major depression,-0.0279
+major depressive,0.0127
+majority,0.0492
+make,-0.0445
+makes,0.0162
+making,-0.1055
+male,-0.0184
+male female,0.036
+males,-0.0044
+manipulated,0.0182
+manipulating,-0.0043
+manipulation,-0.072
+manipulations,-0.0008
+manner,-0.026
+manual,-0.017
+map,-0.0283
+mapped,-0.0524
+mapping,-0.0439
+maps,-0.0367
+marked,0.0385
+marker,-0.0105
+markers,-0.0365
+masked,0.0426
+mass,-0.0475
+match,-0.0644
+matching,0.0482
+matching task,0.0465
+material,0.0498
+materials,0.0031
+matrix,-0.0093
+matter,-0.1078
+matter density,-0.0425
+matter gm,-0.0507
+matter integrity,-0.0915
+matter volume,-0.0794
+matter volumes,-0.0528
+matter wm,-0.1079
+maturation,-0.0286
+maximal,-0.0133
+maximum,-0.0367
+mci,0.0202
+md,-0.051
+mdd,0.0113
+mean,-0.1056
+mean age,-0.0278
+mean diffusivity,-0.0749
+meaning,0.0838
+meaningful,0.0497
+means,0.0017
+measure,-0.0733
+measurement,0.0019
+measurements,-0.0476
+measures,-0.0447
+measuring,-0.0163
+mechanism,-0.0166
+mechanisms,0.003
+mechanisms involved,0.0184
+mechanisms underlying,-0.003
+medial,0.0803
+medial frontal,-0.0377
+medial lateral,0.0136
+medial orbitofrontal,0.0304
+medial parietal,-0.0368
+medial prefrontal,0.0643
+medial superior,-0.0358
+medial temporal,0.1316
+median,-0.0229
+mediate,0.0323
+mediated,0.0093
+mediates,-0.0184
+mediating,0.0571
+medication,-0.0457
+meg,-0.0151
+memories,0.0762
+memory,-0.0069
+memory encoding,0.0582
+memory formation,0.041
+memory load,-0.064
+memory performance,0.0124
+memory processes,0.0078
+memory retrieval,0.0356
+memory task,0.0098
+memory tasks,-0.0254
+memory wm,-0.0792
+men,-0.0033
+men women,-0.0002
+mental,-0.0141
+mental imagery,-0.0162
+mental state,0.0531
+mental states,0.1101
+mentalizing,0.0751
+mesial,-0.0189
+met,-0.0182
+metabolic,-0.0009
+metabolism,-0.0694
+method,-0.0554
+methodological,-0.0192
+methodology,-0.0474
+methodology principal,-0.0191
+methods,-0.0456
+methods functional,-0.0112
+mg,-0.0289
+microstructural,-0.0728
+microstructure,-0.0816
+mid,-0.0061
+midbrain,0.0703
+middle,0.0608
+middle cingulate,0.0261
+middle frontal,-0.0724
+middle inferior,0.0108
+middle occipital,-0.0033
+middle superior,0.0167
+middle temporal,0.1343
+midline,-0.0219
+mild,0.0278
+mild cognitive,0.0293
+min,-0.0045
+mind,0.0853
+mind tom,0.0728
+minimal,-0.0133
+mirror,0.0221
+mirror neuron,0.0483
+mixed,-0.0379
+mm,-0.0812
+mnemonic,0.03
+modal,0.0611
+modalities,0.0353
+modality,0.0901
+mode,0.0026
+mode network,-0.0065
+model,-0.0647
+modeling,-0.0229
+models,0.0515
+moderate,-0.0308
+modified,-0.0013
+modulate,0.0242
+modulated,0.0145
+modulates,-0.0179
+modulating,0.0165
+modulation,0.0288
+modulations,0.0205
+modulatory,0.0151
+monetary,-0.0338
+monetary reward,-0.0109
+money,0.01
+monitor,0.0036
+monitored,0.0205
+monitoring,-0.0626
+monkey,-0.0341
+monkeys,-0.0746
+months,-0.0207
+mood,0.0622
+moral,0.0708
+morphological,-0.0821
+morphology,-0.0386
+morphometric,-0.044
+morphometry,-0.0646
+morphometry vbm,-0.0326
+motion,0.0721
+motivation,-0.0181
+motivational,0.0159
+motor,-0.0852
+motor control,-0.0676
+motor cortex,-0.0547
+motor function,-0.0792
+motor imagery,-0.0948
+motor performance,-0.0297
+motor pre,-0.0682
+motor premotor,-0.073
+motor response,0.0119
+motor responses,-0.0302
+motor sma,-0.0361
+motor task,-0.0456
+movement,-0.0712
+movements,-0.0544
+moving,-0.0014
+mpfc,0.051
+mr,-0.0525
+ms,-0.0238
+mt,-0.0162
+mtg,0.1151
+mtl,0.0902
+multi,-0.0214
+multimodal,0.1107
+multiple,-0.0617
+multiple comparisons,-0.0521
+multiple sclerosis,-0.0443
+multisensory,0.0234
+multivariate,0.0002
+muscle,-0.0651
+music,0.1525
+musical,0.108
+naive,-0.0448
+names,0.034
+naming,-0.0253
+native,0.0531
+natural,0.1209
+naturalistic,0.0665
+nature,0.0198
+navigation,-0.0138
+near,-0.0193
+necessary,-0.0253
+need,-0.0101
+needed,-0.0465
+needs,0.0037
+negative,0.0642
+negative correlation,-0.0685
+negative correlations,-0.0532
+negative emotional,0.0939
+negative positive,0.0526
+negatively,-0.0062
+negatively correlated,-0.0132
+negativity,0.0545
+neocortical,0.0992
+nerve,-0.0695
+nervous,-0.0477
+network,0.0616
+network connectivity,-0.0268
+network dmn,0.008
+network involved,0.0288
+networks,-0.0088
+networks involved,0.0327
+neuroanatomical,-0.0315
+neuroanatomy,-0.0132
+neurobiological,-0.0137
+neurobiology,0.0285
+neurocognitive,-0.0112
+neurodegenerative,-0.0411
+neurodevelopmental,-0.0378
+neurological,-0.0862
+neuron,0.0356
+neuronal,-0.0353
+neurons,-0.0486
+neurophysiological,0.0149
+neuropsychiatric,-0.0145
+neuropsychological,-0.0139
+neuroscience,-0.0227
+neutral,0.2503
+neutral faces,0.1265
+neutral pictures,0.1104
+neutral stimuli,0.1259
+new,-0.0382
+newly,-0.0203
+nineteen,-0.0193
+nociceptive,-0.0667
+nodes,0.0463
+nogo,-0.0574
+noise,0.0697
+non,0.0334
+non human,0.0184
+non invasive,-0.0142
+nonverbal,0.1402
+normal,-0.084
+normal controls,-0.0435
+normalization,-0.0812
+normalized,-0.062
+normally,-0.0089
+notably,0.0235
+noted,0.001
+notion,0.0099
+noun,-0.0107
+nouns,0.024
+novel,0.0322
+novelty,0.0436
+noxious,-0.0667
+nuclei,-0.0584
+nucleus,-0.0452
+nucleus accumbens,0.0063
+number,-0.0492
+numbers,-0.0697
+numerical,-0.069
+numerous,0.0081
+object,0.0093
+object recognition,0.0421
+objective,-0.0496
+objects,0.0385
+observation,0.0464
+observations,0.0084
+observer,0.034
+observers,0.0185
+observing,0.0708
+obsessive,-0.0823
+obsessive compulsive,-0.0777
+obtain,-0.0049
+obtained,-0.0394
+occipital,-0.008
+occipital cortex,0.0231
+occipital gyrus,0.0396
+occipital lobe,-0.0075
+occipital parietal,-0.0535
+occipital temporal,0.039
+occipito,0.0079
+occipito temporal,0.0235
+occipitotemporal,0.0261
+occur,0.0235
+occurred,0.0165
+occurrence,-0.0153
+occurring,0.0017
+occurs,-0.0194
+ocd,-0.0594
+oddball,0.0565
+ofc,0.0429
+offer,0.0108
+offers,0.0177
+old,-0.0565
+older,-0.0353
+older adults,-0.0367
+olfactory,0.0299
+ones,0.0216
+ongoing,0.0047
+online,-0.0218
+onset,-0.0176
+open,0.0485
+operation,-0.0619
+operations,-0.0532
+opercularis,0.0121
+operculum,-0.0266
+opposed,-0.0293
+opposite,-0.0263
+optimal,-0.0065
+optimized,-0.0403
+optimized voxel,-0.0536
+oral,0.0244
+orbital,0.0542
+orbitofrontal,0.0337
+orbitofrontal cortex,0.045
+order,-0.0054
+organization,-0.0169
+organized,-0.034
+orientation,-0.0118
+oriented,-0.0219
+orienting,0.0149
+origin,-0.0662
+original,-0.0357
+orthographic,0.0002
+oscillations,-0.0529
+outcome,-0.0018
+outcomes,-0.0382
+output,-0.0179
+outside,-0.0415
+overall,0.0489
+overlap,-0.0283
+overlapped,-0.0264
+overlapping,-0.0023
+overt,-0.0282
+oxygen,0.0087
+oxygen level,0.0061
+oxygenation,0.048
+oxygenation level,0.044
+paced,-0.0149
+pain,-0.0587
+pain intensity,-0.0583
+painful,-0.0754
+pair,-0.0537
+paired,0.0482
+pairs,0.0272
+pallidus,-0.0092
+paper,-0.0306
+paradigm,0.079
+paradigms,0.0777
+parahippocampal,0.0942
+parahippocampal cortex,0.0525
+parahippocampal gyrus,0.0889
+parahippocampus,0.1051
+paralimbic,0.0693
+parallel,-0.0388
+paralleled,-0.0099
+parameter,-0.0302
+parameters,-0.0111
+parametric,-0.0537
+parametric mapping,-0.0307
+parametrically,0.0551
+parietal,-0.1314
+parietal cortex,-0.1101
+parietal cortices,-0.0232
+parietal frontal,-0.0394
+parietal junction,0.0488
+parietal lobe,-0.0717
+parietal lobes,-0.0539
+parietal lobule,-0.0943
+parietal lobules,-0.0493
+parietal network,-0.0597
+parietal occipital,-0.0294
+parietal prefrontal,0.0155
+parietal temporal,-0.0524
+parieto,-0.0729
+parieto occipital,-0.0667
+parkinson,-0.0835
+parkinson disease,-0.0809
+pars,0.0336
+pars opercularis,0.0121
+partial,-0.0087
+partially,-0.0007
+participant,-0.0032
+participate,0.0061
+participated,-0.027
+particular,0.0517
+particularly,-0.0173
+partly,-0.0097
+parts,-0.026
+passive,0.0567
+passive viewing,0.0846
+passively,0.1037
+past,-0.0088
+pathogenesis,-0.0371
+pathological,0.0003
+pathology,-0.039
+pathophysiological,-0.0581
+pathophysiology,-0.035
+pathway,0.0193
+pathways,-0.0285
+patient,-0.0362
+patient group,-0.0104
+patient groups,-0.005
+pattern,-0.0045
+patterns,-0.0083
+pcc,-0.0103
+pd,-0.0701
+peak,-0.0485
+peaks,0.0307
+people,0.0789
+perceive,0.0007
+perceived,0.0517
+perceiving,0.0823
+perception,0.1673
+perceptual,0.0737
+perform,-0.0318
+performance,-0.1271
+performance task,-0.0328
+performances,-0.0287
+performing,-0.0302
+perfusion,-0.0169
+periaqueductal,0.0878
+period,-0.0091
+periods,0.0082
+peripheral,-0.0198
+perirhinal,0.0722
+perisylvian,0.0269
+persistent,0.0129
+person,0.0943
+personal,0.0389
+personality,0.0527
+personality traits,0.0004
+persons,0.0047
+perspective,0.0011
+pet,0.0033
+pfc,-0.0778
+pharmacological,-0.0265
+phase,-0.0434
+phases,-0.008
+phenomena,-0.0047
+phenomenon,-0.0135
+phenotype,-0.0373
+phonological,0.0258
+photographs,0.039
+physical,0.0057
+physiological,0.0328
+picture,0.0931
+pictures,0.1535
+pitch,0.0435
+place,0.0047
+placebo,-0.0193
+placebo controlled,-0.0319
+planning,-0.056
+planum,0.1089
+planum temporale,0.12
+plasticity,-0.0712
+play,0.0227
+play important,-0.003
+play role,-0.025
+played,-0.0265
+playing,0.0285
+plays,0.0294
+plays important,0.0218
+plays role,0.0205
+pleasant,0.084
+plus,-0.0001
+point,0.0066
+points,-0.017
+pole,0.1533
+polymorphism,-0.0502
+pons,-0.0209
+poor,-0.0737
+poorer,-0.0133
+poorly,-0.0225
+poorly understood,-0.0286
+population,-0.0276
+populations,-0.0391
+portion,0.0198
+portions,0.0217
+position,-0.0346
+positive,0.0567
+positive correlation,-0.0029
+positive correlations,-0.0483
+positive negative,0.0471
+positively,-0.0274
+positively correlated,-0.028
+positron,-0.0084
+positron emission,-0.0084
+possibility,0.0169
+possible,-0.0413
+possibly,0.0544
+post,-0.034
+post hoc,-0.0494
+postcentral,-0.0649
+postcentral gyrus,-0.0597
+posterior,0.0808
+posterior anterior,0.0645
+posterior cingulate,0.0192
+posterior inferior,-0.0033
+posterior insula,-0.0079
+posterior medial,-0.0029
+posterior middle,0.1087
+posterior parietal,-0.0907
+posterior superior,0.2054
+posterior temporal,0.1249
+posttraumatic,0.0293
+posttraumatic stress,0.035
+potential,-0.001
+potentially,-0.0415
+potentials,-0.0349
+power,-0.0406
+powerful,0.0207
+ppc,-0.0534
+practice,-0.0191
+pre,-0.0657
+pre sma,-0.0627
+pre supplementary,-0.0711
+preceded,0.0097
+preceding,0.0157
+precentral,-0.0434
+precentral gyrus,-0.0083
+precise,-0.0021
+precuneus,-0.0546
+precuneus posterior,0.0079
+predict,0.0235
+predicted,-0.008
+predicting,0.0265
+prediction,-0.012
+prediction error,-0.0162
+predictions,0.0503
+predictive,-0.004
+predicts,0.0015
+predominantly,0.0087
+preference,0.0111
+preferences,0.0163
+preferential,0.0224
+preferentially,0.0687
+prefrontal,-0.0655
+prefrontal anterior,-0.0295
+prefrontal cortex,-0.0675
+prefrontal cortical,-0.0462
+prefrontal cortices,-0.0588
+prefrontal parietal,-0.062
+prefrontal temporal,0.0542
+preliminary,-0.0143
+premotor,-0.0467
+premotor cortex,-0.0276
+premotor cortices,-0.0209
+premotor parietal,-0.0325
+preparation,-0.0346
+preparatory,-0.0671
+presence,0.016
+presentation,0.0589
+presentations,0.04
+presented,0.1338
+presenting,0.0398
+preserved,-0.0294
+press,-0.0404
+pressure,-0.0364
+presumably,0.0035
+previous,-0.0037
+previous functional,0.0126
+previous reports,0.0022
+previous research,-0.0235
+previous shown,0.0144
+previous work,-0.0129
+primarily,-0.0519
+primary,-0.0519
+primary auditory,0.0807
+primary motor,-0.0539
+primary secondary,-0.0144
+primary sensorimotor,-0.0639
+primary somatosensory,-0.1041
+primary visual,-0.0078
+primate,-0.0091
+primates,-0.0067
+prime,0.0043
+priming,0.0222
+principal,-0.0366
+principle,0.031
+prior,-0.0344
+priori,-0.0132
+probabilistic,-0.0129
+probability,0.0141
+probably,-0.0388
+probe,-0.0375
+problem,-0.0365
+problems,-0.042
+procedure,-0.0243
+procedures,-0.0601
+process,-0.0471
+processed,0.1051
+processes,0.0035
+processes involved,-0.0161
+processes underlying,-0.0094
+produce,-0.0227
+produced,0.043
+produces,0.0219
+producing,0.0698
+production,0.0333
+profile,0.0224
+profiles,0.0671
+progression,0.0028
+progressive,-0.0194
+projection,-0.0427
+projections,-0.0223
+prolonged,0.0107
+prominent,-0.0753
+pronounced,0.0312
+proper,-0.0133
+properties,0.0878
+proportion,-0.0249
+proposal,0.025
+propose,-0.0397
+proposed,-0.0541
+prospective,-0.0039
+protocol,-0.0216
+provide,0.0127
+provide evidence,-0.0098
+provide new,0.0191
+provided,-0.0083
+provides,0.0024
+provides evidence,-0.0279
+providing,0.0352
+psts,0.2155
+psychiatric,0.0481
+psychiatric disorders,0.079
+psychological,0.0032
+psychopathology,0.0292
+psychophysical,0.0216
+psychophysiological,0.0215
+psychophysiological interaction,0.0119
+psychosis,-0.0297
+psychotic,-0.0021
+ptsd,0.0379
+published,0.0229
+pure,0.0053
+purely,-0.054
+purpose,-0.0729
+putamen,-0.0533
+putative,-0.0027
+quality,0.0143
+quantified,-0.0355
+quantify,-0.0402
+quantitative,-0.0176
+question,-0.0286
+questionnaire,-0.0057
+questions,0.0478
+radial,-0.0929
+random,-0.0388
+random effects,0.0125
+randomized,-0.02
+randomly,0.049
+range,-0.0408
+ranging,-0.0064
+rapid,-0.0245
+rapidly,0.0565
+rare,-0.0286
+rarely,0.0097
+rate,0.0005
+rated,0.0487
+rates,0.0075
+rating,-0.0064
+rating scale,-0.0647
+ratings,0.0877
+ratio,-0.0451
+reach,-0.0582
+reaching,-0.0422
+reaction,-0.0003
+reaction time,-0.0268
+reaction times,-0.0049
+reactions,0.0241
+reactivity,0.0763
+read,0.0061
+readers,-0.0146
+reading,0.0262
+real,0.0517
+real time,0.0312
+reasoning,-0.063
+recall,0.0427
+received,-0.092
+receiving,0.0307
+recently,-0.027
+receptor,-0.0339
+receptors,-0.0672
+recognition,0.0885
+recognition memory,0.0019
+recognition task,0.0504
+recognize,0.106
+recognized,0.0414
+recognizing,0.0687
+recollection,-0.0022
+recorded,0.0136
+recording,0.0056
+recordings,-0.0032
+recovery,-0.0187
+recruit,0.0517
+recruited,0.0004
+recruitment,-0.0011
+recruits,0.0099
+red,-0.0347
+reduce,-0.0216
+reducing,0.028
+reduction,-0.0583
+reductions,-0.0371
+reference,0.0265
+referential,0.0373
+referred,0.0016
+refers,-0.0581
+reflect,0.003
+reflected,0.0695
+reflecting,0.0294
+reflects,-0.007
+regard,0.0124
+regarding,0.0158
+regardless,0.0541
+regional,-0.0629
+regional cerebral,-0.0072
+regional gray,-0.0654
+regional homogeneity,-0.0589
+regular,0.0064
+regulate,0.0539
+regulating,-0.0006
+regulation,0.0437
+regulatory,0.0272
+rehearsal,-0.0328
+reho,-0.0692
+reinforcement,0.0246
+relate,-0.0349
+relating,0.0132
+relation,0.0056
+relational,-0.0194
+relations,-0.051
+relationship,-0.0188
+relationships,-0.0234
+relatively,0.0018
+relatives,-0.0457
+relevance,0.0062
+relevant,0.0646
+relevant information,-0.0085
+reliability,-0.0306
+reliable,0.0152
+reliably,0.0295
+relies,-0.0283
+rely,0.009
+remain,0.0025
+remain unclear,-0.0206
+remained,-0.0149
+remaining,0.0426
+remember,0.0004
+remembered,0.0071
+remote,0.0195
+reorganization,-0.0682
+repeat,-0.0491
+repeated,-0.028
+repeatedly,-0.0581
+repetition,0.0311
+repetition suppression,0.0146
+repetitive,-0.0468
+replicated,0.0064
+report,0.0361
+reported,0.0044
+reporting,-0.0336
+reports,-0.0024
+represent,-0.0703
+representation,-0.05
+representations,-0.0167
+represented,-0.0365
+representing,0.0753
+represents,0.0092
+require,-0.0025
+required,-0.0584
+requirements,0.0088
+requires,0.002
+requiring,-0.1022
+research,0.0199
+residual,-0.0024
+resolution,-0.0245
+resolve,-0.0311
+resonance,0.01
+resonance correlates,-0.0547
+resonance experiment,0.038
+resonance healthy,-0.005
+resonance identify,-0.0092
+resonance images,-0.0278
+resonance measure,-0.0327
+resonance performing,0.0292
+resonance scans,-0.0438
+resources,-0.0344
+respect,0.0467
+respective,-0.0234
+respectively,-0.0453
+respond,0.0386
+responded,0.0926
+responding,0.0667
+responds,0.0885
+response,0.0789
+response conflict,-0.0768
+response inhibition,-0.0338
+response selection,-0.0449
+response time,-0.023
+response times,-0.0269
+responses,0.1293
+responsible,0.0369
+responsive,0.0976
+responsiveness,0.023
+rest,-0.0281
+resting,-0.0457
+resting state,-0.0437
+restricted,-0.0154
+result,-0.0134
+resulted,0.0072
+resulting,0.0255
+retention,-0.0119
+retrieval,0.0263
+retrieved,0.0455
+retrosplenial,0.042
+retrosplenial cortex,0.0174
+reveal,-0.0325
+revealing,0.0546
+reveals,0.0155
+reversal,-0.0434
+reverse,0.0002
+reversed,0.0552
+review,-0.0032
+reward,0.0064
+reward anticipation,0.0237
+rewarding,0.0016
+rewards,-0.0515
+rhythm,-0.0227
+rich,0.1166
+rise,-0.015
+risk,-0.0679
+risk factor,-0.0198
+robust,0.0204
+roi,-0.0089
+rois,-0.0166
+role,0.0562
+roles,0.0513
+rostral,-0.0023
+rostral anterior,0.0003
+rotation,-0.0528
+rs,-0.0338
+rt,-0.0898
+rule,-0.0799
+rules,-0.0488
+run,0.0034
+s1,-0.0718
+saccade,-0.0593
+saccades,-0.0444
+sad,0.1505
+salience,0.0669
+salient,0.1126
+sample,0.001
+samples,-0.0634
+sampling,0.0303
+scale,-0.0198
+scales,-0.0165
+scalp,-0.0268
+scan,0.0573
+scanned,0.0268
+scanned using,0.0039
+scanner,-0.0214
+scanning,0.0343
+scans,-0.0594
+scene,0.088
+scenes,0.1345
+schizophrenia,-0.0272
+schizophrenic,0.0186
+sclerosis,-0.0417
+score,-0.0685
+scores,-0.0176
+sd,-0.0004
+se,-0.0304
+search,0.0446
+second,0.0251
+secondary,-0.0418
+secondary somatosensory,-0.078
+sectional,-0.0111
+seed,-0.042
+seeking,-0.0144
+seen,0.0143
+segmentation,-0.0098
+segregated,-0.0317
+segregation,0.0173
+select,-0.0559
+selected,-0.0477
+selection,-0.105
+selective,0.0885
+selective attention,0.017
+selectively,0.0522
+selectivity,0.0668
+self,0.0273
+self referential,0.0374
+self reported,0.0397
+semantic,0.0798
+semantic information,0.0097
+semantic memory,0.0711
+semantically,0.0173
+semantics,0.0255
+sensation,-0.0612
+sense,-0.0105
+sensitive,0.0401
+sensitivity,0.0496
+sensorimotor,-0.0616
+sensorimotor cortex,-0.0483
+sensory,0.003
+sensory information,0.0095
+sensory motor,-0.0353
+sentence,0.0586
+sentence comprehension,0.0038
+sentences,0.092
+separable,0.0292
+separate,-0.0098
+separated,-0.0853
+separately,0.016
+separation,0.0356
+sequence,-0.0723
+sequences,-0.012
+sequential,-0.0515
+serial,-0.0276
+series,-0.0002
+serotonin,0.0016
+serve,-0.003
+served,-0.0053
+serves,-0.0115
+session,0.025
+sessions,-0.016
+set,-0.0186
+sets,-0.0084
+setting,-0.0058
+seven,-0.0842
+seventeen,0.0324
+severe,-0.084
+severity,-0.0413
+sex,-0.0204
+sexual,0.0262
+sham,0.0039
+shape,-0.0628
+shaped,0.004
+shapes,0.0167
+share,-0.0302
+shared,-0.0343
+shed,0.0395
+shed light,0.0515
+shift,0.0269
+shifted,-0.002
+shifting,-0.0331
+shifts,0.0343
+short,0.0575
+short term,0.0006
+shorter,-0.0209
+showing,0.0634
+shown,-0.0498
+shows,-0.0363
+si,-0.0871
+sided,-0.0309
+sign,0.0502
+signal,0.0632
+signal change,0.0272
+signal intensity,-0.0211
+signal task,0.0513
+signaling,0.0214
+signals,0.0684
+significance,0.0187
+signs,-0.0142
+sii,-0.0573
+silent,0.0061
+similarities,-0.0309
+similarity,0.0132
+similarly,-0.0269
+simple,-0.041
+simply,0.0035
+simulated,-0.0769
+simulation,0.0163
+simultaneous,0.0398
+simultaneously,0.0079
+single,-0.0074
+single subject,0.0492
+single trial,-0.0185
+site,-0.0115
+sites,0.0184
+situation,0.0558
+situations,0.0275
+sixteen,-0.0716
+size,-0.0625
+sizes,0.0571
+skill,0.0098
+skills,-0.0128
+skin,-0.0135
+skin conductance,0.0461
+sleep,-0.0133
+slow,0.0069
+slower,-0.0043
+sma,-0.0602
+small,-0.0251
+smaller,-0.0213
+social,0.1595
+social cognition,0.1087
+social cognitive,0.0948
+social interaction,0.1268
+social interactions,0.0599
+socially,0.0951
+software,-0.0288
+solving,-0.0665
+somatosensory,-0.0829
+somatosensory cortex,-0.0934
+somatosensory cortices,-0.049
+sought,-0.0021
+sound,0.08
+sounds,0.1401
+source,-0.0383
+sources,0.0127
+space,-0.0313
+span,-0.0283
+sparse,0.0421
+spatial,-0.1189
+spatial attention,-0.033
+spatial information,-0.018
+spatial statistics,-0.0994
+spatial temporal,-0.0265
+spatially,-0.0412
+spatiotemporal,-0.0017
+speaker,0.1384
+speakers,0.0157
+speaking,0.0134
+special,0.0351
+specialization,0.0188
+specialized,0.0026
+species,-0.001
+specifically,0.0163
+specificity,0.09
+specified,-0.0226
+spectral,0.0304
+spectrum,0.0732
+spectrum disorders,0.0723
+speech,0.1331
+speech perception,0.0631
+speech production,0.0385
+speed,-0.0805
+spin,-0.0309
+spinal,-0.0484
+spl,-0.059
+spm,-0.0151
+spoken,0.1649
+spontaneous,-0.0025
+stable,0.0068
+stage,-0.0282
+stages,0.0098
+standard,-0.0123
+standardized,-0.0007
+state,0.0037
+state functional,-0.0311
+state networks,-0.0192
+states,0.0754
+static,0.1289
+statistics,-0.0716
+status,0.0389
+step,-0.0277
+stg,0.1324
+stimulated,-0.0405
+stimulation,-0.0759
+stimulation tms,-0.0404
+stimuli,0.1845
+stimuli presented,0.066
+stimulus,0.0775
+stimulus driven,-0.0041
+stimulus response,-0.0708
+stop,-0.0104
+stop signal,0.0071
+storage,-0.0236
+stored,0.0332
+strategic,-0.0379
+strategies,-0.0693
+strategy,-0.0534
+stream,0.0275
+streams,0.0442
+strength,0.0284
+stress,0.022
+stress disorder,0.0341
+striatal,-0.0656
+striatum,-0.0059
+striking,0.0077
+stroke,-0.0645
+strong,0.0695
+strongest,0.0249
+strongly,-0.0026
+stroop,-0.0995
+stroop task,-0.0876
+structural,-0.0711
+structural abnormalities,-0.057
+structural functional,0.0059
+structural magnetic,-0.0692
+structure,-0.0184
+structure function,-0.0279
+structures,0.0833
+structures involved,0.0139
+sts,0.2828
+studied,-0.0081
+studying,0.0286
+sub,0.0001
+subcortical,0.0095
+subcortical structures,0.0438
+subgenual,-0.0008
+subgroup,-0.0059
+subject,-0.0126
+subjective,0.0408
+subregions,0.0092
+subsequent,0.0429
+subsequent memory,0.063
+subsequently,0.0097
+subserve,-0.0078
+subserved,0.0282
+subserving,-0.0327
+subset,0.0029
+substance,-0.0321
+substantia,0.0221
+substantial,0.0032
+substantially,-0.0342
+substrate,0.0657
+substrates,0.0062
+subtle,0.0126
+subtraction,-0.046
+success,0.0128
+successful,0.0823
+successfully,0.0052
+successive,0.0106
+suffering,-0.013
+sufficient,-0.016
+suggest,0.0184
+suggested,0.0029
+suggesting,-0.0268
+suggests,0.0298
+sulci,0.0108
+sulcus,0.1251
+sulcus ips,-0.0575
+sulcus sts,0.254
+summary,-0.0009
+superior,0.1307
+superior frontal,-0.0716
+superior inferior,-0.0512
+superior longitudinal,-0.0816
+superior middle,0.0665
+superior parietal,-0.0896
+superior temporal,0.235
+supplementary,-0.0832
+supplementary motor,-0.0687
+supported,0.0335
+supporting,0.0268
+supports,0.0225
+suppressed,-0.0082
+suppression,0.0239
+supramarginal,0.0033
+supramarginal gyrus,0.0031
+surface,-0.0854
+surprisingly,0.0216
+surrounding,0.0086
+susceptibility,-0.0046
+sustained,0.0001
+sustained attention,-0.0214
+switch,-0.0317
+switching,-0.0674
+syllable,0.0292
+symptom,-0.0211
+symptom severity,-0.002
+symptoms,-0.036
+synaptic,-0.0426
+synchronization,-0.0285
+syndrome,-0.0554
+syntactic,0.0303
+systematic,0.0275
+systematically,0.0318
+systems,0.0319
+t1,-0.0658
+t1 weighted,-0.061
+t2,-0.0216
+tactile,-0.0699
+taken,0.0207
+taking,-0.0002
+tapping,-0.0441
+target,-0.0217
+target detection,0.0053
+targeted,-0.0078
+targets,0.0033
+task,-0.0813
+task conditions,-0.0487
+task demands,0.0092
+task difficulty,-0.0176
+task functional,0.0217
+task induced,-0.0122
+task involving,-0.0339
+task irrelevant,0.0325
+task performance,-0.0815
+task positive,-0.005
+task relevant,-0.0002
+task required,-0.0494
+task task,-0.0378
+task using,-0.0079
+tasks,-0.0781
+technique,-0.0505
+techniques,-0.0252
+template,-0.0298
+temporal,0.252
+temporal cortex,0.1232
+temporal cortices,0.039
+temporal frontal,0.0718
+temporal gyri,0.138
+temporal gyrus,0.146
+temporal inferior,0.0235
+temporal lobe,0.1615
+temporal lobes,0.1223
+temporal occipital,0.0489
+temporal parietal,0.0071
+temporal pole,0.1793
+temporal sulcus,0.3008
+temporale,0.12
+temporally,-0.0359
+temporo,0.0814
+temporo parietal,0.0557
+temporoparietal,0.0818
+temporoparietal junction,0.0829
+tend,-0.0406
+tended,-0.0355
+tendency,0.0136
+tensor,-0.1006
+tensor dti,-0.0795
+term,-0.0014
+term memory,0.0416
+terms,-0.0041
+tesla,0.0169
+test,-0.0708
+tested,0.0038
+testing,-0.0149
+tests,-0.0282
+thalamic,-0.026
+thalamus,0.0187
+theoretical,-0.0077
+theories,0.0189
+theory,0.0792
+theory mind,0.1195
+therapeutic,0.0091
+therapy,-0.0163
+thermal,-0.0583
+theta,-0.0492
+thickness,-0.0745
+thinking,0.0068
+thirteen,0.0093
+thirty,-0.0151
+thought,-0.0111
+thoughts,0.0218
+threat,0.096
+threatening,0.1236
+threshold,-0.0151
+time,-0.0439
+time course,-0.0079
+time courses,-0.0023
+time series,0.0267
+time task,-0.0141
+times,-0.0195
+timing,-0.0203
+tissue,-0.0357
+tms,-0.0392
+tom,0.0694
+tomography,-0.0152
+tomography pet,0.0062
+tone,0.0749
+tones,0.0817
+took,-0.0478
+tool,-0.0195
+tools,0.0418
+topography,-0.0639
+total,-0.0682
+touch,-0.0648
+tpj,0.0424
+track,0.0141
+tracking,-0.0215
+tract,-0.1144
+tract spatial,-0.099
+tractography,-0.071
+tracts,-0.1114
+traditional,0.0066
+traditionally,-0.0225
+trained,-0.0403
+training,-0.0661
+trait,0.0076
+traits,0.0022
+transcranial,-0.0648
+transcranial magnetic,-0.0632
+transfer,-0.0386
+transformation,-0.0279
+transient,0.0507
+transition,-0.0325
+transporter,0.0469
+trauma,0.0396
+traumatic,-0.0166
+treated,-0.0734
+treatment,-0.0316
+treatments,-0.0234
+trend,-0.0309
+trial,-0.0522
+trial trial,-0.0257
+trials,-0.0785
+trigger,0.0395
+triggered,-0.0043
+true,-0.0136
+turn,0.0382
+twice,-0.0349
+type,-0.0704
+types,0.0195
+typical,0.0202
+typically,-0.0096
+typically developing,0.0056
+unaffected,-0.0571
+uncertain,0.013
+uncertainty,-0.0312
+unclear,-0.03
+undergoing,-0.0281
+underlie,0.0413
+underlies,0.0117
+underlying,-0.022
+underlying mechanisms,-0.0442
+underpinnings,0.0215
+understand,-0.0181
+understanding,0.1032
+understood,0.0123
+unexpected,0.036
+unfamiliar,0.0797
+unilateral,-0.0521
+unimodal,0.1859
+unique,-0.0245
+uniquely,0.0399
+univariate,-0.0028
+unknown,0.0802
+unlike,0.0138
+unmedicated,0.0205
+unpleasant,0.0593
+unrelated,0.0078
+upcoming,0.0114
+updating,-0.0542
+upper,-0.053
+use,-0.024
+use functional,-0.0262
+useful,-0.0137
+users,-0.0249
+uses,0.0042
+using,0.0159
+using event,-0.0283
+using functional,0.0842
+using parametric,-0.0237
+using resting,-0.0048
+using voxel,-0.0372
+usually,-0.0417
+utility,-0.0645
+utilized,-0.0194
+v1,-0.012
+v5,0.0181
+valence,0.1287
+valid,0.04
+validated,-0.006
+validity,0.001
+valuable,-0.0034
+value,0.0018
+values,-0.0711
+variability,0.0029
+variable,-0.0146
+variables,-0.0387
+variance,-0.0313
+variant,0.0189
+variation,-0.0115
+variations,-0.0288
+varied,0.0262
+varies,-0.0242
+variety,-0.0197
+various,-0.0036
+vary,0.0094
+varying,0.0194
+vbm,-0.0388
+vector,0.0121
+ventral,0.0249
+ventral anterior,-0.0377
+ventral dorsal,-0.045
+ventral medial,-0.0197
+ventral premotor,0.0175
+ventral striatum,0.0156
+ventral visual,0.0395
+ventrolateral,-0.0255
+ventrolateral prefrontal,-0.0134
+ventromedial,0.0578
+ventromedial prefrontal,0.0425
+verb,-0.0159
+verbal,-0.0199
+verbal fluency,-0.0538
+verbal working,-0.0787
+verbs,0.0081
+vermis,-0.0573
+version,-0.0631
+versus,0.006
+video,0.0713
+video clips,0.0883
+videos,0.1245
+view,0.0066
+viewed,0.1173
+viewing,0.1519
+violations,-0.0026
+virtual,-0.0074
+vision,0.0036
+visual,0.0589
+visual attention,-0.0196
+visual auditory,0.1324
+visual cortex,0.0274
+visual cortices,0.0351
+visual field,-0.0218
+visual information,-0.0115
+visual motion,0.0304
+visual perception,0.0261
+visual stimuli,0.0593
+visual stimulus,0.0111
+visual stream,0.0466
+visual word,-0.0026
+visually,-0.0117
+visually presented,0.0152
+visuo,-0.0454
+visuo spatial,-0.0588
+visuomotor,-0.0425
+visuospatial,-0.0604
+vivo,-0.0519
+vlpfc,-0.004
+vmpfc,-0.0215
+vocal,0.0944
+voice,0.2123
+volume,-0.0636
+volumes,-0.0619
+volumetric,-0.074
+voluntary,-0.0705
+volunteers,-0.019
+voxel,-0.0811
+voxel morphometry,-0.0677
+voxel voxel,-0.0295
+voxel wise,-0.0497
+voxels,-0.0496
+voxelwise,-0.0422
+vs,0.0185
+vulnerability,0.0186
+watched,0.0599
+water,-0.0421
+way,0.0185
+ways,-0.0269
+weak,-0.0426
+weaker,0.0195
+week,-0.0203
+weeks,-0.0535
+weight,0.0102
+weighted,-0.0824
+whilst,0.0139
+white,-0.1116
+white matter,-0.1236
+wide,-0.0442
+widely,0.0176
+widespread,-0.0057
+wise,-0.0531
+wm,-0.1376
+wm task,-0.0561
+women,0.0315
+word,0.0162
+word form,0.0195
+word recognition,-0.0139
+words,0.0735
+work,-0.0281
+working,-0.1042
+working memory,-0.1047
+world,0.0455
+worse,-0.044
+written,0.0327
+year,0.0179
+year old,-0.0227
+years,-0.0163
+yield,-0.0072
+yielded,0.029
+young,-0.032
+young adults,-0.0341
+young healthy,-0.0617
+younger,-0.0161
+younger adults,-0.0307
+zone,-0.0378
